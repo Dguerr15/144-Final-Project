@@ -3,7 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 data/train/
 data/test/
-checkpoints/*.pt
-checkpoints/*.pth
-submission.csv
 .DS_Store
