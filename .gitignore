@@ -1,6 +1,13 @@
 __pycache__/
 .venv/
-.ipynb_checkpoints/
+.DS_Store
+
+# competition images (download from Kaggle)
 data/train/
 data/test/
-.DS_Store
+
+# scratch checkpoints from earlier runs
+checkpoints/best_model.pt
+checkpoints/best_model75.pt
+checkpoints/best_model77.pt
+checkpoints/best_model_valacc.pt
