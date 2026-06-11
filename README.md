@@ -62,3 +62,4 @@ Training is slow on CPU. Lower `BATCH_SIZE` if you run out of memory.
 - **Inference:** 5-view test-time augmentation
 - **Best val accuracy:** 71% (epoch 21)
 - **Kaggle test accuracy:** 76%
+- **Kaggle position:** 40th (as of submission, see Kaggle_Pos.png)
